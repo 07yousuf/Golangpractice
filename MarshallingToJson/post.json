@@ -1,0 +1,20 @@
+{
+		"ID": 1,
+		"Content": "Marshalling struct data into json",
+		"Author": {
+				"ID": 1,
+				"Name": "Yousuf"
+		},
+		"Comment": [
+				{
+						"ID": 2,
+						"Content": "Easy way!",
+						"Author": "Mugera"
+				},
+				{
+						"ID": 2,
+						"Content": "That's easy way!",
+						"Author": "Luqman"
+				}
+		]
+}
